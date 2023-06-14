@@ -54,7 +54,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jknoptrix&theme=transparent" />
   </a>
   <a href="https://github.com/jknoptrix">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jknoptrix&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jknoptrix&theme=react&line_height=40&hide=css" />
   </a>
 </p>
 
